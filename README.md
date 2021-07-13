@@ -1,4 +1,4 @@
-##LinkedIn Learning : Best Practices for Code Formatting (using Eslint)
+## LinkedIn Learning : Best Practices for Code Formatting (using Eslint)
 
            (duration: 1hour and 50 minutes)✅
                            
